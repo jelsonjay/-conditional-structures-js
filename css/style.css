@@ -7,6 +7,12 @@ body {
     background: coral;
 }
 
+h2 {
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
 #img {
     width: 200px;
     height: 250px;
@@ -20,8 +26,8 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    height: 600px;
-    width: 700px;
+    height: 500px;
+    width: 600px;
     margin: 0 auto;
     background: #fff;
 
