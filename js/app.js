@@ -20,7 +20,7 @@ if (age > 20) {
 } else {
 	console.log('Hes a minor!');
 }
-
+// daytime
 if (time < 11) {
 	daytime = 'Good morning!';
 } else if (time < 20) {
