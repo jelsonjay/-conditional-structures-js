@@ -1,2 +1,2 @@
 #  conditional-structures-js
-  Conditional structures em JavaScript
+  Conditional structures em Vanilla JavaScript
